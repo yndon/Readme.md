@@ -84,8 +84,10 @@
     ●執行各項作業點檢，以確保設備及環境合乎生產需求。
     ●排除基本設備故障異常事件，維持產線正常生產。
     ●產線5S整理及整頓及紀律遵守。
-<a href="https://youtu.be/kwTG_curpkw" target="_blank">
-<img src="https://github.com/yndon/Readme.md/blob/main/IMG/test.webp" 
+    
+**台虹科技股份有限公司介紹**
+
+<a href="https://youtu.be/kwTG_curpkw" target="_blank"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/test.webp" 
 alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube   
 
@@ -99,6 +101,9 @@ alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400
     ●產品異常維修
     ●尋找及評估開發新商品所需之合適零試做樣品
     ●其他主管交辦事項
+
+**艾法科技股份有限公司介紹**   
+
 <a href="https://youtu.be/h-n5iEIITFY" target="_blank">
 <img src="https://github.com/yndon/Readme.md/blob/main/IMG/hqdefault.webp" 
 alt="i-Ctrl Pro 體驗大使開箱影片｜ 家電遠端遙控，專為原有紅外線遙控器電器而生，WiFi智能控制器！艾法科技 AIFA Smart 智慧家庭" width="400" height="250" border="10" /></a>
