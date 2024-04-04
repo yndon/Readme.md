@@ -1,4 +1,6 @@
-<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" width=100 height=150/>
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/qr.ioi.tw.png" width=200 height=200/>
+
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" width=150 height=200/>
 
 #  **基本資料**  
 | 姓名     | 沈鶴栩                        |
@@ -80,6 +82,11 @@
     ●執行各項作業點檢，以確保設備及環境合乎生產需求。
     ●排除基本設備故障異常事件，維持產線正常生產。
     ●產線5S整理及整頓及紀律遵守。
+<a href="https://youtu.be/kwTG_curpkw" target="_blank">
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/test.webp" 
+alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube   
+
 ※**2023年10月-2024年至今 艾法科技股份有限公司-電子助理工程師**
 |:----------------------------------------------------- |
     ●新產品研發與測試 
@@ -90,7 +97,11 @@
     ●產品異常維修
     ●尋找及評估開發新商品所需之合適零試做樣品
     ●其他主管交辦事項
-    
+<a href="https://youtu.be/h-n5iEIITFY" target="_blank">
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/hqdefault.webp" 
+alt="i-Ctrl Pro 體驗大使開箱影片｜ 家電遠端遙控，專為原有紅外線遙控器電器而生，WiFi智能控制器！艾法科技 AIFA Smart 智慧家庭" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
 # **專利證明**(附件一)
 <img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%B0%88%E5%88%A9.png" width=800 height=1000/>
 
