@@ -1,43 +1,49 @@
 #  **QR碼**  
 <img src="https://github.com/yndon/Readme.md/blob/main/IMG/qr.ioi.tw.png" width=200 height=200/>
 
-#  **基本資料**  
+#  **基本資料**
 <table>
   <tr>
-    <td rowspan="6"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" width=150 height=200/></td>
-    <th>姓名：</th>
+    <td rowspan="8"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" alt=""></td>
+    <th>姓名</th>
     <td>沈鶴栩</td>
   </tr>
   <tr>
-    <th>出生日期：</th>
+     <th>性別</th>
+    <td>男</td>
+  </tr>
+  
+   <th>出生日期</th>
     <td>90年02月18日 (23歲)</td>
   </tr>
   <tr>
-    <th>婚姻狀況：</th>
-    <td>男</td>
+    <th>婚姻狀況</th>
+    <td>未婚</td>
   </tr>
   <tr>
-    <th>兵役狀況：</th>
+    <th>兵役狀況</th>
     <td>陸軍(未役)</td>
   </tr>
   <tr>
-    <th>電話：</th>
+    <th>電話</th>
     <td>0918608218</td>
   </tr>
   <tr>
-    <th>E-mail：</th>
+    <th>E-mail</th>
     <td><a href="mailto:C108252129@nkust.edu.tw">C108252129@nkust.edu.tw</a></td>
   </tr>
   <tr>
-    <th>通訊地址：</th>
-    <td colspan="2">高雄市旗津區南汕里北汕巷4-1號</td>
+    <th>通訊地址</th>
+    <td>高雄市旗津區南汕里北汕巷4-1號</td>
+  </tr>
 </table>
 
 # **學歷資料**
 
-●**109年－114年-國立高雄科技大學-主修:電子工程系;輔修:金融資訊系-就學中**
-|:----------------------------------------------------- |
-●**105年－108年-高雄市立高雄高級工業職業學校-資訊科(已畢業)**
+| 時間| 學校 | 專業 | 狀態 |
+|----------------|------------------------------------------------|-------------------------------------|----------|
+| 109年－114年 | <span style="color: red;">國立高雄科技大學</span> | 主修: 電子工程系; 輔修: 金融資訊系 | 就學中   |
+| 105年－108年  | <span style="color: red;">高雄市立高級工業職業學校</span> | 資訊科  |已畢業   |
 
 #  **優良與其他事蹟** 
 
