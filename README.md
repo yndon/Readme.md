@@ -1,5 +1,7 @@
+#  **QR碼**  
 <img src="https://github.com/yndon/Readme.md/blob/main/IMG/qr.ioi.tw.png" width=200 height=200/>
 
+#  **照片**  
 <img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" width=150 height=200/>
 
 #  **基本資料**  
