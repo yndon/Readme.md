@@ -103,8 +103,8 @@ alt="i-Ctrl Pro 體驗大使開箱影片｜ 家電遠端遙控，專為原有紅
 <br>影片取自 youtube
 
 # **專利證明**(附件一)
-<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%B0%88%E5%88%A9.png" width=800 height=1000/>
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%B0%88%E5%88%A9.png" width=300 height=450/>
 
 # **專業證照證明**(附件二)
-<img src="https://github.com/yndon/Readme.md/blob/main/IMG/AI.jpg" width=800 height=500/>
-<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E8%AD%89%E7%85%A7.png" width=800 height=500/>
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/AI.jpg" width=650 height=400/>
+<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E8%AD%89%E7%85%A7.png" width=650 height=400/>
