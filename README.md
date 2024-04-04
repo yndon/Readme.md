@@ -1,18 +1,37 @@
 #  **QR碼**  
 <img src="https://github.com/yndon/Readme.md/blob/main/IMG/qr.ioi.tw.png" width=200 height=200/>
 
-#  **照片**  
-<img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" width=150 height=200/>
-
 #  **基本資料**  
-| 姓名     | 沈鶴栩                        |
-|:----------|:---------------------------- |
-| 出生日期 | 90年02月18日 (23歲)           |
-| 婚姻狀況 | 男                            |
-| 兵役狀況 | 陸軍(未役)                    |
-| 電話     | 0918608218                    |
-| E-mail  | C108252129@nkust.edu.tw       |
-| 通訊地址 | 高雄市旗津區南汕里北汕巷4-1號 |
+<table>
+  <tr>
+    <td rowspan="6"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" width=150 height=200/></td>
+    <th>姓名：</th>
+    <td>沈鶴栩</td>
+  </tr>
+  <tr>
+    <th>出生日期：</th>
+    <td>90年02月18日 (23歲)</td>
+  </tr>
+  <tr>
+    <th>婚姻狀況：</th>
+    <td>男</td>
+  </tr>
+  <tr>
+    <th>兵役狀況：</th>
+    <td>陸軍(未役)</td>
+  </tr>
+  <tr>
+    <th>電話：</th>
+    <td>0918608218</td>
+  </tr>
+  <tr>
+    <th>E-mail：</th>
+    <td><a href="mailto:C108252129@nkust.edu.tw">C108252129@nkust.edu.tw</a></td>
+  </tr>
+  <tr>
+    <th>通訊地址：</th>
+    <td colspan="2">高雄市旗津區南汕里北汕巷4-1號</td>
+</table>
 
 # **學歷資料**
 
