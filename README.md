@@ -4,7 +4,7 @@
 #  **基本資料**
 <table>
   <tr>
-    <td rowspan="8"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg" alt=""></td>
+    <td rowspan="8"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/%E5%80%8B%E7%85%A7.jpg"width=100 height=150 alt=""></td>
     <th>姓名</th>
     <td>沈鶴栩</td>
   </tr>
